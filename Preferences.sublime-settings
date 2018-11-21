@@ -1,0 +1,15 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Color Scheme - Default/Pastels on Dark.tmTheme",
+	"fade_fold_buttons": false,
+	"font_size": 11,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"HTML-CSS-JS Prettify",
+		"JsPrettier",
+		"MarkdownPreview",
+		"Vintage"
+	],
+	"update_check":false
+}
